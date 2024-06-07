@@ -1,5 +1,5 @@
 
-# Skinstore [Deployed Link](https://skinstore-p-2.vercel.app/)
+# Skinstore [Deployed Link] (https://skinstore-p-2.vercel.app/)
 * A clone of SkinStore.com which is an e-commerce site for premium beauty products across skin, makeup and hair.
 
 ## Tech  Stack:-
