@@ -1,9 +1,5 @@
-<div  align="center">
-<img src="https://i.ibb.co/tb29NvM/project-logo-1.png" width="700" align="center" />
-</div>
 
-
-# Tvacha.com [Deployed Link](https://miniature-skin-4850.vercel.app/)
+# Skinstore [Deployed Link]()
 * A clone of SkinStore.com which is an e-commerce site for premium beauty products across skin, makeup and hair.
 
 ## Tech  Stack:-
@@ -72,27 +68,6 @@
 <hr>
 
 # Thankyou.
-
-
-
-  {
-    label: "Holiday Gifts🎁",
-    children: [
-      {
-        label: "Popular Categories",
-        subLabel: [
-          "Shop All Holiday Beauty Gifts",
-          "Our Favourite Beauty Gift Sets",
-          "Tvacha Store Exlusive Gifts",
-          "Tvacha Stores Holiday Edit Box",
-          "Holiday Gift Ideas For Her",
-          "Holiday Gift Ideas For Him",
-        ],
-        href: "#",
-      },
-    
-    ],
-  },
 
 
 
